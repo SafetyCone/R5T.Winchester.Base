@@ -1,0 +1,2 @@
+# R5T.Winchester.Base
+An ITestDataDirectoryPathProvider service definition base library for the Winchester project.
